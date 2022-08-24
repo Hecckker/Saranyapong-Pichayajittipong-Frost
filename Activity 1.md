@@ -1,4 +1,5 @@
 Algorithm description for getting to school
+start
 wake up at 7
 Snooze alarm
 breath in
@@ -183,11 +184,33 @@ walk to check in desk
 arrive at check in desk
 type student id
 leave check in desk
-go to classroom
-
-
+check schedule
+If classroom = 1
+go to classroom 1
+If classroom = 2
+go to clasroom 2
+If classroom = 3
+go to classroom 3
+If classroom = 4
+go to classroom 4
+If classroom = 5
+go to classroom 5
+If classroom = 6
+go to classroom 6
+If classroom = 7
+go to classroom 7
+If classroom = 8
+go to classroom 8
+If classroom = 9
+go to classroom 9
+If classroom = 10
+go to classroom 10
+If classroom = 11
+go to classroom 11
+If classroom = 12 
+go to classroom 12
 enter classroom
-
+ end
 
 
 
