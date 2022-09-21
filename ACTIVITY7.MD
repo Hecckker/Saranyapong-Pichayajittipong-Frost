@@ -8,4 +8,6 @@ IF guess > 10 THEN
     send "Well done! You guessed correctly" TO DISPLAY
   ELSE THEN
     send "Bad luck! The correct number is + my_numb"
-END IF IF IF
+END IF
+END IF
+END IF
